@@ -232,7 +232,7 @@ export default function Inicio() {
           <div className="relative">
             <div className="absolute -top-6 -left-6 w-28 h-28 border-2 border-aviso-400/60" aria-hidden="true" />
             <img
-              src="/public/Taller.jpg"
+              src="/Taller.jpg"
               alt="Técnico de TIFERROS operando maquinaria industrial con equipo de seguridad"
               className="relative w-full h-[420px] object-cover border-4 border-white/20 shadow-2xl"
               loading="lazy"
