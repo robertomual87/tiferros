@@ -13,7 +13,7 @@ export const SITE = {
   correo: "roberto@tiferros.com",
   direccion: "Cuauhtémoc No. 705",
   ciudad: "Villagrán, Guanajuato, México",
-  contacto: "Roberto Guadalupe Muñiz Álvarez",
+  contacto: "Roberto Tiferros",
   url: "https://www.tiferros.com",
   horario: "Lun – Vie · 8:00 – 18:00",
 };
