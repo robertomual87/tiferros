@@ -170,7 +170,6 @@ export default function Productos() {
         <div className="mx-auto max-w-7xl px-4 py-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           {[
             "Cotización personalizada por proyecto",
-            "Sin mínimos de compra en catálogo",
             "Asesoría técnica para elegir el producto correcto",
             "Entrega en taller o en tu planta, en Guanajuato y el Bajío",
           ].map((item) => (
