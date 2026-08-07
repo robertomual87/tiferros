@@ -83,7 +83,7 @@ export default function Inicio() {
       {/* ============ HERO ============ */}
       <section className="relative bg-grafito-950 overflow-hidden">
         <img
-          src="/public/Taller2.jpg"
+          src="/Taller2.jpg"
           alt="Torno industrial en operación durante un maquinado de precisión en taller de TIFERROS"
           className="absolute inset-0 w-full h-full object-cover"
         />
