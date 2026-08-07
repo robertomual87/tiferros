@@ -122,7 +122,7 @@ export default function Productos() {
   return (
     <>
       {/* ============ HERO ============ */}
-      <section className="relative bg-grafito-850 overflow-hidden">
+      <section className="relative bg-grafito-750 overflow-hidden">
         <img
           src="/productos/rack.jpg"
           alt="Componentes y sistemas para manejo de materiales industriales"
